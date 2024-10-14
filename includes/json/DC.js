@@ -1,65 +1,58 @@
 var dailychar = {
+    "guild-activity": {
+        task: "Guild Activity",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "guild-activity"
+    },
+    "daily-una-task-1": {
+        task: "Daily Una Task 1",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "daily-una"
+    },
+    "daily-una-task-2": {
+        task: "Daily Una Task 2",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "daily-una"
+    },
+    "daily-una-task-3": {
+        task: "Daily Una Task 3",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "daily-una"
+    },
+    "kurzan-front": {
+        task: "Kurzan Front",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "kurzan-front"
+    },
     "chaos-dungeon": {
         task: "Chaos Dungeon 1",
-        url: "https://lostarkive.com/guides/endgame/chaos-dungeons/",
+        url: "#",
         short: true,
-        desc: "Uses 50 Energy per run.</br>Gain 100 Energy per day.",
-        img: "chaos dungeon"
+        desc: "Placeholder",
+        img: "chaos-dungeon"
     },
     "chaos-dungeon-2": {
         task: "Chaos Dungeon 2",
-        url: "https://lostarkive.com/guides/endgame/chaos-dungeons/",
-        short: true,
-        desc: "Uses 50 Energy per run.</br>Gain 100 Energy per day.",
-        img: "chaos dungeon"
-    },
-    "guardian-raid": {
-        task: "Guardian Raid 1",
-        url: "https://papunika.com/guardian-subjugations/",
-        short: true,
-        desc: "Uses 1 Guardian Soul per harvest.</br>Gain 2 Guardian Souls per day.",
-        img: "guardian raids"
-    },
-    "una-daily": {
-        task: "Una Daily 1",
-        url: "https://papunika.com/unas-tasks-overview/",
-        short: true,
-        desc: "3 Una tasks per day.</br>Can be expanded up to +3.",
-        img: "una daily"
-    },
-    "una-daily-2": {
-        task: "Una Daily 2",
-        url: "https://papunika.com/unas-tasks-overview/",
-        short: true,
-        desc: "3 Una tasks per day.</br>Can be expanded up to +3.",
-        img: "una daily"
-    },
-    "una-daily-3": {
-        task: "Una Daily 3",
-        url: "https://papunika.com/unas-tasks-overview/",
-        short: true,
-        desc: "3 Una tasks per day.</br>Can be expanded up to +3.",
-        img: "una daily"
-    },
-    "guild-support": {
-        task: "Guild Support",
         url: "#",
         short: true,
-        desc: "1 Donation per day.</br>1 Research Support per day.",
-        img: "donation"
+        desc: "Placeholder",
+        img: "chaos-dungeon"
     },
-    "kalthertz": {
-        task: "Kalthertz",
-        url: "https://lost-ark.maxroll.gg/island/kalthertz",
+    "guardian-raid": {
+        task: "Guardian Raid",
+        url: "#",
         short: true,
-        desc: "Free pirates on Kalthertz. (free the ones that cost 600 or 900 coins, most cost effective.)",
-        img: "pirate coin"
-    },
-    "event-guardian-raid": {
-        task: "Event Guardian Raid",
-        url: "https://papunika.com/guardian-subjugations/",
-        short: true,
-        desc: "Fight 3 guardians at the same time.",
-        img: "guardian raids"
+        desc: "Placeholder",
+        img: "guardian-raid"
     },
 };
