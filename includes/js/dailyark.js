@@ -85,7 +85,7 @@ const populateTable = function (timeFrame, char) {
         }
 
         if (!!data[taskSlug].img) {
-            newRowAnchor.innerHTML = "<img class='icon' src='../includes/img/activities/" + data[taskSlug].img + ".png' alt=" + data[taskSlug].img + "/>" + data[taskSlug].task;
+            newRowAnchor.innerHTML = "<img class='icon' src='./includes/img/activities/" + data[taskSlug].img + ".png' alt=" + data[taskSlug].img + "/>" + data[taskSlug].task;
         } else {
             newRowAnchor.innerHTML = data[taskSlug].task
         }
