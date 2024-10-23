@@ -27,6 +27,13 @@ var weeklychar = {
         desc: "Placeholder",
         img: "weekly-una"
     },
+    "aegir-kazeros-raid": {
+        task: "Aegir Kazeros Raid",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "endgame-content"
+    },
     "behemoth-epic-raid": {
         task: "Behemoth Epic Raid",
         url: "#",
@@ -36,13 +43,6 @@ var weeklychar = {
     },
     "echidna-kazeros-raid": {
         task: "Echidna Kazeros Raid",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "endgame-content"
-    },
-    "thaemine-legion-raid": {
-        task: "Thaemine Legion Raid",
         url: "#",
         short: true,
         desc: "Placeholder",
