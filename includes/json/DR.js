@@ -20,6 +20,13 @@ var dailies = {
         desc: "Placeholder",
         img: "trade-skills"
     },
+    "rapport": {
+        task: "Rapport",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "rapport"
+    },
     "adventure-island": {
         task: "Adventure Island",
         url: "#",
