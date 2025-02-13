@@ -13,6 +13,13 @@ var weeklies = {
         desc: "Placeholder",
         img: "challenge-abyssal-dungeons"
     },
+    "rowen-activities": {
+        task: "Rowen Activities",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "rowen"
+    },
     "event-shop": {
         task: "Event Shop",
         url: "#",
