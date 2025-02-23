@@ -41,4 +41,25 @@ var dailies = {
         desc: "Placeholder",
         img: "ocean-co-op"
     },
+    "arkesia-festa": {
+        task: "Arkesia Festa",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "arkesia-festa"
+    },
+    "buzzling-island": {
+        task: "Buzzling Island",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "buzzling-island"
+    },
+    "moko-island": {
+        task: "Moko Island",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "moko-island"
+    },
 };

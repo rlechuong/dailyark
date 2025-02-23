@@ -35,14 +35,7 @@ var dailychar = {
         img: "kurzan-front"
     },
     "chaos-dungeon": {
-        task: "Chaos Dungeon 1",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "chaos-dungeon"
-    },
-    "chaos-dungeon-2": {
-        task: "Chaos Dungeon 2",
+        task: "Chaos Dungeon",
         url: "#",
         short: true,
         desc: "Placeholder",
