@@ -13,19 +13,19 @@ var dailies = {
         desc: "Placeholder",
         img: "field-boss"
     },
-    "trade-skills": {
-        task: "Trade Skills",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "trade-skills"
-    },
     "rapport": {
         task: "Rapport",
         url: "#",
         short: true,
         desc: "Placeholder",
         img: "rapport"
+    },
+    "trade-skills": {
+        task: "Trade Skills",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "trade-skills"
     },
     "adventure-island": {
         task: "Adventure Island",
@@ -41,12 +41,12 @@ var dailies = {
         desc: "Placeholder",
         img: "ocean-co-op"
     },
-    "arkesia-festa": {
-        task: "Arkesia Festa",
+    "indigo-island": {
+        task: "Indigo Island",
         url: "#",
         short: true,
         desc: "Placeholder",
-        img: "arkesia-festa"
+        img: "islands"
     },
     "buzzling-island": {
         task: "Buzzling Island",

@@ -48,4 +48,11 @@ var dailychar = {
         desc: "Placeholder",
         img: "guardian-raid"
     },
+    "event-guardian-raid": {
+        task: "Event Guardian Raid",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "guardian-raid"
+    },
 };
