@@ -48,6 +48,34 @@ var weeklychar = {
         desc: "Placeholder",
         img: "endgame-content"
     },
+    "thaemine-legion-raid": {
+        task: "Thaemine Legion Raid",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "endgame-content"
+    },
+    "trampled-garden-abyssal-dungeon": {
+        task: "Trampled Garden Abyssal Dungeon",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "endgame-content"
+    },
+    "akkan-legion-raid": {
+        task: "Akkan Legion Raid",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "endgame-content"
+    },
+    "kayangel-abyssal-dungeon": {
+        task: "Kayangel Abyssal Dungeon",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "endgame-content"
+    },
     "raid-exchange": {
         task: "Raid Exchange",
         url: "#",
