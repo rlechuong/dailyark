@@ -1,4 +1,11 @@
 var weeklies = {
+    "stronghold-energy-chest": {
+        task: "Stronghold Energy Chest",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "stronghold-energy-chest"
+    },
     "rowen-activities": {
         task: "Rowen Activities",
         url: "#",
