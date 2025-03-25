@@ -13,13 +13,13 @@ var dailies = {
         desc: "Placeholder",
         img: "field-boss"
     },
-    "rapport": {
-        task: "Rapport",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "rapport"
-    },
+    // "rapport": {
+    //     task: "Rapport",
+    //     url: "#",
+    //     short: true,
+    //     desc: "Placeholder",
+    //     img: "rapport"
+    // },
     "trade-skills": {
         task: "Trade Skills",
         url: "#",
