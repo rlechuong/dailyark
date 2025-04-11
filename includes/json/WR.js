@@ -13,6 +13,13 @@ var weeklies = {
         desc: "Placeholder",
         img: "rowen"
     },
+    "primal-island": {
+        task: "Primal Island",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "primal-island"
+    },
     "event-shop": {
         task: "Event Shop",
         url: "#",

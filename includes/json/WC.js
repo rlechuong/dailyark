@@ -69,13 +69,6 @@ var weeklychar = {
         desc: "Placeholder",
         img: "endgame-content"
     },
-    "kayangel-abyssal-dungeon": {
-        task: "Kayangel Abyssal Dungeon",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "endgame-content"
-    },
     "raid-exchange": {
         task: "Raid Exchange",
         url: "#",
