@@ -41,11 +41,4 @@ var dailies = {
         desc: "Placeholder",
         img: "ocean-co-op"
     },
-    "moko-island": {
-        task: "Moko Island",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "moko-island"
-    },
 };
