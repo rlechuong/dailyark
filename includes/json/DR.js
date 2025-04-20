@@ -14,7 +14,7 @@ var dailies = {
         img: "field-boss"
     },
     "prayer-daily": {
-        task: "Prayer Daily",
+        task: "Prairie Daily",
         url: "#",
         short: true,
         desc: "Placeholder",
