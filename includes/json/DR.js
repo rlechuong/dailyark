@@ -13,6 +13,13 @@ var dailies = {
         desc: "Placeholder",
         img: "field-boss"
     },
+    "prayer-daily": {
+        task: "Prayer Daily",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "daily-una"
+    },
     // "rapport": {
     //     task: "Rapport",
     //     url: "#",
