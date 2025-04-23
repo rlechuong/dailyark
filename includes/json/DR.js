@@ -20,6 +20,13 @@ var dailies = {
         desc: "Placeholder",
         img: "daily-una"
     },
+    "storm-the-abyss": {
+        task: "Storm The Abyss",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "storm-the-abyss"
+    },
     // "rapport": {
     //     task: "Rapport",
     //     url: "#",
