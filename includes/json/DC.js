@@ -34,13 +34,6 @@ var dailychar = {
         desc: "Placeholder",
         img: "kurzan-front"
     },
-    "chaos-dungeon": {
-        task: "Chaos Dungeon",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "chaos-dungeon"
-    },
     "guardian-raid": {
         task: "Guardian Raid",
         url: "#",
