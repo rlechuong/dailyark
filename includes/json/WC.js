@@ -27,6 +27,13 @@ var weeklychar = {
         desc: "Placeholder",
         img: "weekly-una"
     },
+    "brelshaza-kazeros-raid": {
+        task: "Brelshaza Kazeros Raid",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "endgame-content"
+    },
     "aegir-kazeros-raid": {
         task: "Aegir Kazeros Raid",
         url: "#",
