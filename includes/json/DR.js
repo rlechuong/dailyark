@@ -27,19 +27,19 @@ var dailies = {
         desc: "Placeholder",
         img: "trade-skills"
     },
-    "prayer-daily": {
-        task: "Prairie Daily",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "daily-una"
-    },
     "storm-the-abyss": {
         task: "Storm The Abyss",
         url: "#",
         short: true,
         desc: "Placeholder",
         img: "storm-the-abyss"
+    },
+    "grand-prix": {
+        task: "Grand Prix",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "grand-prix"
     },
     "adventure-island": {
         task: "Adventure Island",
