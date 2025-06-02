@@ -55,13 +55,6 @@ var weeklychar = {
         desc: "Placeholder",
         img: "endgame-content"
     },
-    "thaemine-legion-raid": {
-        task: "Thaemine Legion Raid",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "endgame-content"
-    },
     "raid-exchange": {
         task: "Raid Exchange",
         url: "#",
