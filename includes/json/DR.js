@@ -20,12 +20,12 @@ var dailies = {
     //     desc: "Placeholder",
     //     img: "rapport"
     // },
-    "trade-skills": {
-        task: "Trade Skills",
+    "yornujan-island": {
+        task: "Yornujan Island",
         url: "#",
         short: true,
         desc: "Placeholder",
-        img: "trade-skills"
+        img: "yornujan-island"
     },
     "adventure-island": {
         task: "Adventure Island",
@@ -40,5 +40,12 @@ var dailies = {
         short: true,
         desc: "Placeholder",
         img: "ocean-co-op"
+    },
+    "trade-skills": {
+        task: "Trade Skills",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "trade-skills"
     },
 };
