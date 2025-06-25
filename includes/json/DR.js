@@ -27,13 +27,6 @@ var dailies = {
         desc: "Placeholder",
         img: "trade-skills"
     },
-    "storm-the-abyss": {
-        task: "Storm The Abyss",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "storm-the-abyss"
-    },
     "adventure-island": {
         task: "Adventure Island",
         url: "#",

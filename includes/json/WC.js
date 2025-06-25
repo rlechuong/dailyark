@@ -55,13 +55,6 @@ var weeklychar = {
         desc: "Placeholder",
         img: "endgame-content"
     },
-    "echidna-kazeros-raid": {
-        task: "Echidna Kazeros Raid",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "endgame-content"
-    },
     "raid-exchange": {
         task: "Raid Exchange",
         url: "#",
