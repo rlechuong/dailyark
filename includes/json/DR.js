@@ -20,13 +20,6 @@ var dailies = {
     //     desc: "Placeholder",
     //     img: "rapport"
     // },
-    "yornujan-island": {
-        task: "Yornujan Island",
-        url: "#",
-        short: true,
-        desc: "Placeholder",
-        img: "yornujan-island"
-    },
     "adventure-island": {
         task: "Adventure Island",
         url: "#",
