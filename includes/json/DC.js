@@ -1,10 +1,10 @@
 var dailychar = {
-  "guild-activity": {
-    task: "Guild Activity",
+  "guild-research": {
+    task: "Guild Research",
     url: "#",
     short: true,
     desc: "Placeholder",
-    img: "guild-activity",
+    img: "guild-research",
   },
   "kurzan-front": {
     task: "Kurzan Front",

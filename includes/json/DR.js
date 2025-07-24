@@ -20,6 +20,13 @@ var dailies = {
     //     desc: "Placeholder",
     //     img: "rapport"
     // },
+    "mokokos-playground": {
+        task: "Mokokos Playground",
+        url: "#",
+        short: true,
+        desc: "Placeholder",
+        img: "mokokos-playground"
+    },
     "adventure-island": {
         task: "Adventure Island",
         url: "#",
