@@ -34,6 +34,20 @@ var weeklychar = {
     desc: "Placeholder",
     img: "weekly-una",
   },
+  "tarkal-assault-raid": {
+    task: "Tarkal Assault Raid",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "assault-raid",
+  },
+  "narhash-assault-raid": {
+    task: "Narhash Assault Raid",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "assault-raid",
+  },
   "mordum-kazeros-raid": {
     task: "Mordum Kazeros Raid",
     url: "#",
