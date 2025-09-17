@@ -20,11 +20,4 @@ var dailychar = {
     desc: "Placeholder",
     img: "guardian-raid",
   },
-  shangra: {
-    task: "Shangra",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "shangra",
-  },
 };
