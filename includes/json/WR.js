@@ -13,6 +13,13 @@ var weeklies = {
     desc: "Placeholder",
     img: "high-sea-coin",
   },
+  "rowen-activity": {
+    task: "Rowen Activity",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "rowen",
+  },
   "event-shop": {
     task: "Event Shop",
     url: "#",

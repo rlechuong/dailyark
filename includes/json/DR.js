@@ -13,13 +13,34 @@ var dailies = {
     desc: "Placeholder",
     img: "chaos-gate",
   },
-  // "rapport": {
-  //     task: "Rapport",
-  //     url: "#",
-  //     short: true,
-  //     desc: "Placeholder",
-  //     img: "rapport"
-  // },
+  rapport: {
+    task: "Rapport",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "rapport",
+  },
+  "indigo-island": {
+    task: "Indigo Island",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "indigo-island",
+  },
+  "Witch's House": {
+    task: "Witch's House",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "witchs-house",
+  },
+  "trial-of-honor": {
+    task: "Trial of Honor",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "trial-of-honor",
+  },
   "adventure-island": {
     task: "Adventure Island",
     url: "#",
