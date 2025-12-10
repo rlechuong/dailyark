@@ -6,13 +6,6 @@ var weeklies = {
     desc: "Placeholder",
     img: "stronghold-energy-chest",
   },
-  "ship-gem-exchange": {
-    task: "Ship Gem Exchange",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "high-sea-coin",
-  },
   "rowen-activity": {
     task: "Rowen Activity",
     url: "#",

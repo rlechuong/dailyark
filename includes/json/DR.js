@@ -27,7 +27,14 @@ var dailies = {
     desc: "Placeholder",
     img: "indigo-island",
   },
-  "Witch's House": {
+  yornujan: {
+    task: "Yornujan Island",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "yornujan",
+  },
+  "witchs-house": {
     task: "Witch's House",
     url: "#",
     short: true,
