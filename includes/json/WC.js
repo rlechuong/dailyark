@@ -1,11 +1,4 @@
 var weeklychar = {
-  "solo-mode-exchange": {
-    task: "Solo Mode Exchange",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "solo-mode-exchange",
-  },
   "bloodstone-shop": {
     task: "Bloodstone Shop",
     url: "#",
@@ -89,6 +82,13 @@ var weeklychar = {
     short: true,
     desc: "Placeholder",
     img: "extra-rewards",
+  },
+  "solo-mode-exchange": {
+    task: "Solo Mode Exchange",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "solo-mode-exchange",
   },
   Paradise: {
     task: "Paradise",
