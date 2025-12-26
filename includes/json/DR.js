@@ -20,13 +20,6 @@ var dailies = {
     desc: "Placeholder",
     img: "rapport",
   },
-  "indigo-island": {
-    task: "Indigo Island",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "indigo-island",
-  },
   "witchs-house": {
     task: "Witch's House",
     url: "#",
