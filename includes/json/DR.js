@@ -20,13 +20,6 @@ var dailies = {
     desc: "Placeholder",
     img: "rapport",
   },
-  "witchs-house": {
-    task: "Witch's House",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "witchs-house",
-  },
   "trial-of-honor": {
     task: "Trial of Honor",
     url: "#",
