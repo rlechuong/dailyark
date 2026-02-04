@@ -6,27 +6,6 @@ var weeklychar = {
     desc: "Placeholder",
     img: "sylmael-bloodstone",
   },
-  "weekly-una-task-1": {
-    task: "Weekly Una Task 1",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "weekly-una",
-  },
-  "weekly-una-task-2": {
-    task: "Weekly Una Task 2",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "weekly-una",
-  },
-  "weekly-una-task-3": {
-    task: "Weekly Una Task 3",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "weekly-una",
-  },
   "kazeros-kazeros-raid": {
     task: "Kazeros Raid",
     url: "#",
