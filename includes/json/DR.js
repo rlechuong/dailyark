@@ -13,13 +13,6 @@ var dailies = {
     desc: "Placeholder",
     img: "chaos-gate",
   },
-  rapport: {
-    task: "Rapport",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "rapport",
-  },
   "trial-of-honor": {
     task: "Trial of Honor",
     url: "#",
