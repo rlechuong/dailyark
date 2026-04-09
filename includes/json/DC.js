@@ -6,6 +6,13 @@ var dailychar = {
     desc: "Placeholder",
     img: "guild-research",
   },
+  "daily-unas": {
+    task: "Daily Unas",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "daily-una",
+  },
   "kurzan-front": {
     task: "Kurzan Front",
     url: "#",

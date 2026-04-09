@@ -13,6 +13,27 @@ var dailies = {
     desc: "Placeholder",
     img: "chaos-gate",
   },
+  rapport: {
+    task: "Rapport",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "rapport",
+  },
+  "buzzling-island": {
+    task: "Buzzling Island",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "buzzling-island",
+  },
+  "moko-isle": {
+    task: "Moko Isle",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "moko-isle",
+  },
   "adventure-island": {
     task: "Adventure Island",
     url: "#",
