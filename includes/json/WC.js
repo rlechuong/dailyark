@@ -48,13 +48,6 @@ var weeklychar = {
     desc: "Placeholder",
     img: "endgame-content",
   },
-  "behemoth-epic-raid": {
-    task: "Behemoth Raid",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "endgame-content",
-  },
   "extra-rewards": {
     task: "Extra Rewards",
     url: "#",
