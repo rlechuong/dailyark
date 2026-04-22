@@ -27,13 +27,6 @@ var dailies = {
     desc: "Placeholder",
     img: "indigo-island",
   },
-  "yornujan-island": {
-    task: "Yornujan Island",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "yornujan",
-  },
   "buzzling-island": {
     task: "Buzzling Island",
     url: "#",
