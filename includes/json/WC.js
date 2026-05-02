@@ -6,6 +6,13 @@ var weeklychar = {
     desc: "Placeholder",
     img: "sylmael-bloodstone",
   },
+  "serca-shadow-raid": {
+    task: "Serca Raid",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "endgame-content",
+  },
   "kazeros-kazeros-raid": {
     task: "Kazeros Raid",
     url: "#",
@@ -36,13 +43,6 @@ var weeklychar = {
   },
   "aegir-kazeros-raid": {
     task: "Aegir Raid",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "endgame-content",
-  },
-  "echidna-kazeros-raid": {
-    task: "Echidna Raid",
     url: "#",
     short: true,
     desc: "Placeholder",
