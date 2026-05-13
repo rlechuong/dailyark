@@ -6,6 +6,13 @@ var weeklies = {
     desc: "Placeholder",
     img: "stronghold-energy-chest",
   },
+  "tranquil-night": {
+    task: "Tranquil Night",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "tranquil-night",
+  },
   "rowen-activity": {
     task: "Rowen Activity",
     url: "#",
