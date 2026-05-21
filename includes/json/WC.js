@@ -6,6 +6,13 @@ var weeklychar = {
     desc: "Placeholder",
     img: "sylmael-bloodstone",
   },
+  "haal's-hourglass": {
+    task: "Haal's Hourglass",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "haals-hourglass",
+  },
   "serca-shadow-raid": {
     task: "Serca Raid",
     url: "#",

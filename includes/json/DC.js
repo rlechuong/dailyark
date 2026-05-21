@@ -13,6 +13,13 @@ var dailychar = {
     desc: "Placeholder",
     img: "daily-una",
   },
+  "chaos-rift": {
+    task: "Chaos Rift",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "chaos-rift",
+  },
   "kurzan-front": {
     task: "Kurzan Front",
     url: "#",
