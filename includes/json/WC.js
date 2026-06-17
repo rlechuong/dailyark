@@ -13,6 +13,13 @@ var weeklychar = {
     desc: "Placeholder",
     img: "haals-hourglass",
   },
+  "cathedral-abyssal-dungeon": {
+    task: "Cathedral Dungeon",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "endgame-content",
+  },
   "serca-shadow-raid": {
     task: "Serca Raid",
     url: "#",
@@ -43,13 +50,6 @@ var weeklychar = {
   },
   "brelshaza-kazeros-raid": {
     task: "Brelshaza Raid",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "endgame-content",
-  },
-  "aegir-kazeros-raid": {
-    task: "Aegir Raid",
     url: "#",
     short: true,
     desc: "Placeholder",
