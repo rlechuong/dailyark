@@ -6,6 +6,13 @@ var weeklychar = {
     desc: "Placeholder",
     img: "sylmael-bloodstone",
   },
+  "astrogem-vendor": {
+    task: "Astrogem Vendor",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "uncommon_astrogem_chest",
+  },
   "haal's-hourglass": {
     task: "Haal's Hourglass",
     url: "#",

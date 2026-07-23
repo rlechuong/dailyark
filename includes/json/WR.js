@@ -6,13 +6,6 @@ var weeklies = {
     desc: "Placeholder",
     img: "stronghold-energy-chest",
   },
-  "tranquil-night": {
-    task: "Tranquil Night",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "tranquil-night",
-  },
   "rowen-activity": {
     task: "Rowen Activity",
     url: "#",
@@ -26,5 +19,12 @@ var weeklies = {
     short: true,
     desc: "Placeholder",
     img: "event-shop",
+  },
+  "extreme-aegir-raid": {
+    task: "Extreme Aegir Raid",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "endgame-content",
   },
 };
