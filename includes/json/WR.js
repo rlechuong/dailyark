@@ -20,8 +20,8 @@ var weeklies = {
     desc: "Placeholder",
     img: "event-shop",
   },
-  "extreme-aegir-raid": {
-    task: "Extreme Aegir Raid",
+  "extreme-brelshaza-raid": {
+    task: "Extreme Brelshaza Raid",
     url: "#",
     short: true,
     desc: "Placeholder",

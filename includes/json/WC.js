@@ -55,13 +55,6 @@ var weeklychar = {
     desc: "Placeholder",
     img: "endgame-content",
   },
-  "brelshaza-kazeros-raid": {
-    task: "Brelshaza Raid",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "endgame-content",
-  },
   "extra-rewards": {
     task: "Extra Rewards",
     url: "#",
@@ -76,7 +69,7 @@ var weeklychar = {
     desc: "Placeholder",
     img: "solo-mode-exchange",
   },
-  Paradise: {
+  paradise: {
     task: "Paradise",
     url: "#",
     short: true,

@@ -20,13 +20,6 @@ var dailies = {
     desc: "Placeholder",
     img: "rapport",
   },
-  "buzzling-island": {
-    task: "Buzzling Island",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "buzzling-island",
-  },
   "adventure-island": {
     task: "Adventure Island",
     url: "#",
