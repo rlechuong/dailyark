@@ -13,12 +13,19 @@ var dailies = {
     desc: "Placeholder",
     img: "chaos-gate",
   },
-  rapport: {
-    task: "Rapport",
+  // rapport: {
+  //   task: "Rapport",
+  //   url: "#",
+  //   short: true,
+  //   desc: "Placeholder",
+  //   img: "rapport",
+  // },
+  "trade-skills": {
+    task: "Trade Skills",
     url: "#",
     short: true,
     desc: "Placeholder",
-    img: "rapport",
+    img: "trade-skills",
   },
   "adventure-island": {
     task: "Adventure Island",
@@ -27,18 +34,25 @@ var dailies = {
     desc: "Placeholder",
     img: "adventure-island",
   },
+  "dancing-maharaka": {
+    task: "Dancing Maharaka",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "dancing-maharaka",
+  },
+  "buzzling-island": {
+    task: "Buzzling Island",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "buzzling-island",
+  },
   "ocean-co-op": {
     task: "Ocean Co-Op",
     url: "#",
     short: true,
     desc: "Placeholder",
     img: "ocean-co-op",
-  },
-  "trade-skills": {
-    task: "Trade Skills",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "trade-skills",
   },
 };

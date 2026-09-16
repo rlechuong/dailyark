@@ -6,6 +6,13 @@ var weeklies = {
     desc: "Placeholder",
     img: "stronghold-energy-chest",
   },
+  "running-cahni": {
+    task: "Running Cahni",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "running-cahni",
+  },
   "rowen-activity": {
     task: "Rowen Activity",
     url: "#",
@@ -20,11 +27,11 @@ var weeklies = {
     desc: "Placeholder",
     img: "event-shop",
   },
-  "extreme-brelshaza-raid": {
-    task: "Extreme Brelshaza Raid",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "endgame-content",
-  },
+  // "extreme-brelshaza-raid": {
+  //   task: "Extreme Brelshaza Raid",
+  //   url: "#",
+  //   short: true,
+  //   desc: "Placeholder",
+  //   img: "endgame-content",
+  // },
 };

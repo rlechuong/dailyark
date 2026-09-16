@@ -13,12 +13,12 @@ var weeklychar = {
     desc: "Placeholder",
     img: "uncommon_astrogem_chest",
   },
-  "haal's-hourglass": {
-    task: "Haal's Hourglass",
+  "solo-mode-exchange": {
+    task: "Solo Mode Exchange",
     url: "#",
     short: true,
     desc: "Placeholder",
-    img: "haals-hourglass",
+    img: "solo-mode-exchange",
   },
   "cathedral-abyssal-dungeon": {
     task: "Cathedral Dungeon",
@@ -48,13 +48,6 @@ var weeklychar = {
     desc: "Placeholder",
     img: "endgame-content",
   },
-  "mordum-kazeros-raid": {
-    task: "Mordum Raid",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "endgame-content",
-  },
   "extra-rewards": {
     task: "Extra Rewards",
     url: "#",
@@ -62,12 +55,12 @@ var weeklychar = {
     desc: "Placeholder",
     img: "extra-rewards",
   },
-  "solo-mode-exchange": {
-    task: "Solo Mode Exchange",
+  "haal's-hourglass": {
+    task: "Haal's Hourglass",
     url: "#",
     short: true,
     desc: "Placeholder",
-    img: "solo-mode-exchange",
+    img: "haals-hourglass",
   },
   paradise: {
     task: "Paradise",
