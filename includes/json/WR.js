@@ -27,6 +27,13 @@ var weeklies = {
     desc: "Placeholder",
     img: "event-shop",
   },
+  "gathering-wishes": {
+    task: "Gathering Wishes",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "gathering-wishes",
+  },
   // "extreme-brelshaza-raid": {
   //   task: "Extreme Brelshaza Raid",
   //   url: "#",
