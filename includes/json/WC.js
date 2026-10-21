@@ -20,6 +20,13 @@ var weeklychar = {
     desc: "Placeholder",
     img: "solo-mode-exchange",
   },
+  "belgardin-shadow-raid": {
+    task: "Belgardin Raid",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "endgame-content",
+  },
   "cathedral-abyssal-dungeon": {
     task: "Cathedral Dungeon",
     url: "#",
@@ -36,13 +43,6 @@ var weeklychar = {
   },
   "kazeros-kazeros-raid": {
     task: "Kazeros Raid",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "endgame-content",
-  },
-  "armoche-kazeros-raid": {
-    task: "Armoche Raid",
     url: "#",
     short: true,
     desc: "Placeholder",

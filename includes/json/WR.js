@@ -6,27 +6,6 @@ var weeklies = {
     desc: "Placeholder",
     img: "stronghold-energy-chest",
   },
-  "running-cahni": {
-    task: "Running Cahni",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "running-cahni",
-  },
-  "rowen-activity": {
-    task: "Rowen Activity",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "rowen",
-  },
-  "event-shop": {
-    task: "Event Shop",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "event-shop",
-  },
   "gathering-wishes": {
     task: "Gathering Wishes",
     url: "#",
@@ -41,4 +20,18 @@ var weeklies = {
   //   desc: "Placeholder",
   //   img: "endgame-content",
   // },
+  "running-cahni": {
+    task: "Running Cahni",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "running-cahni",
+  },
+  "event-shop": {
+    task: "Event Shop",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "event-shop",
+  },
 };

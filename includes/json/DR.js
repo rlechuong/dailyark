@@ -41,13 +41,6 @@ var dailies = {
     desc: "Placeholder",
     img: "dancing-maharaka",
   },
-  "buzzling-island": {
-    task: "Buzzling Island",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "buzzling-island",
-  },
   "ocean-co-op": {
     task: "Ocean Co-Op",
     url: "#",
