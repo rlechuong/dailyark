@@ -13,13 +13,20 @@ var weeklies = {
     desc: "Placeholder",
     img: "gathering-wishes",
   },
-  // "extreme-brelshaza-raid": {
-  //   task: "Extreme Brelshaza Raid",
-  //   url: "#",
-  //   short: true,
-  //   desc: "Placeholder",
-  //   img: "endgame-content",
-  // },
+  "extreme-mordum-raid": {
+    task: "Extreme Mordum Raid",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "endgame-content",
+  },
+  "vestiges-of-the-end": {
+    task: "Vestiges Of The End",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "vestiges-of-the-end",
+  },
   "running-cahni": {
     task: "Running Cahni",
     url: "#",

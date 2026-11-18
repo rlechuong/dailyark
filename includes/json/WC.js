@@ -41,13 +41,6 @@ var weeklychar = {
     desc: "Placeholder",
     img: "endgame-content",
   },
-  "kazeros-kazeros-raid": {
-    task: "Kazeros Raid",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "endgame-content",
-  },
   "extra-rewards": {
     task: "Extra Rewards",
     url: "#",
