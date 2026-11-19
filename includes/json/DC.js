@@ -6,13 +6,6 @@ var dailychar = {
     desc: "Placeholder",
     img: "guild-research",
   },
-  // "daily-unas": {
-  //   task: "Daily Unas",
-  //   url: "#",
-  //   short: true,
-  //   desc: "Placeholder",
-  //   img: "daily-una",
-  // },
   "chaos-rift": {
     task: "Chaos Rift",
     url: "#",

@@ -13,6 +13,13 @@ var dailies = {
     desc: "Placeholder",
     img: "chaos-gate",
   },
+  "reputation-daily": {
+    task: "Reputation Daily",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "daily-una",
+  },
   // rapport: {
   //   task: "Rapport",
   //   url: "#",

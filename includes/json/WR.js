@@ -27,13 +27,6 @@ var weeklies = {
     desc: "Placeholder",
     img: "vestiges-of-the-end",
   },
-  "running-cahni": {
-    task: "Running Cahni",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "running-cahni",
-  },
   "event-shop": {
     task: "Event Shop",
     url: "#",
