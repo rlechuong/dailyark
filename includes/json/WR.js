@@ -20,13 +20,6 @@ var weeklies = {
     desc: "Placeholder",
     img: "endgame-content",
   },
-  "vestiges-of-the-end": {
-    task: "Vestiges Of The End",
-    url: "#",
-    short: true,
-    desc: "Placeholder",
-    img: "vestiges-of-the-end",
-  },
   "event-shop": {
     task: "Event Shop",
     url: "#",

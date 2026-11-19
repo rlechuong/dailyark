@@ -20,6 +20,13 @@ var weeklychar = {
     desc: "Placeholder",
     img: "solo-mode-exchange",
   },
+  "vestiges-of-the-end": {
+    task: "Vestiges Of The End",
+    url: "#",
+    short: true,
+    desc: "Placeholder",
+    img: "vestiges-of-the-end",
+  },
   "belgardin-shadow-raid": {
     task: "Belgardin Raid",
     url: "#",
